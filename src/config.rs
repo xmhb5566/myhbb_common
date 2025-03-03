@@ -98,6 +98,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
+
 pub const RENDEZVOUS_SERVERS: &[&str] = &["192.168.10.116:21116"];
 pub const RS_PUB_KEY: &str = "8zSsiwLLbczWvBtWa7wJmySdPJQZOnT3HjcGJnGDBKU=";
 
